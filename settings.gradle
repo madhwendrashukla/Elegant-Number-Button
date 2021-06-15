@@ -1,0 +1,2 @@
+rootProject.name = "Elegant Number Button"
+include ':app'
